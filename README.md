@@ -76,7 +76,7 @@ Bot com tomada de decisão automatizada
 Exibição do tabuleiro e estado atual após cada turno
 
 
-## 🗂️ Organização do Projeto
-
-✏️ Autor
-Rafael Casadio Costa
+## 🙋‍♂️ Autor<br>
+Rafael Casadio Costa<br>
+GitHub: rafaelcasadio<br>
+LinkedIn: https://www.linkedin.com/in/rafael-casadio/
